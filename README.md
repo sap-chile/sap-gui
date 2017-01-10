@@ -1,6 +1,6 @@
 # sap-gui
 Como instalar SAP GUI
-![Alt text](https://github.com/sap-chile/sap-gui/blob/master/img/0.png?raw=true "Optional Title")
+![Alt text](https://github.com/sap-chile/sap-gui/blob/master/1.png?raw=true "Optional Title")
 
 
 # 1 - Descargar SAP GUI 730
