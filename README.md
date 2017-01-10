@@ -14,6 +14,6 @@ http://www.erptraininguk.com/
 
 
 # 4 - Configurar SAP GUI
-![Alt text](https://github.com/sap-chile/sap-gui/blob/master/1.png?raw=true "Optional Title")
+![Alt text](https://github.com/sap-chile/sap-gui/blob/master/2.png?raw=true "Optional Title")
 
 
