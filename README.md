@@ -16,4 +16,7 @@ http://www.erptraininguk.com/
 # 4 - Configurar SAP GUI
 ![Alt text](https://github.com/sap-chile/sap-gui/blob/master/img/2.png?raw=true "Optional Title")
 
+# 5 - Academias de SAP
+https://www.dropbox.com/sh/hdddpa15oc5hbd9/AACv9wAnf2eGeiW_clvRleb-a?dl=0
+
 
